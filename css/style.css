@@ -1,0 +1,10 @@
+body{
+    background-color: #f2f2f2;
+    padding: 20px 0;
+}
+md-content{
+    max-width: 800px;
+    margin: 0px auto;
+    padding: 0;
+    background: none;
+}
